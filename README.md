@@ -1,0 +1,1 @@
+the matlab files are the codes used to do the calculations and plots. the pdfs are the reports submitted along with the HW. I recommend you check out the reports before the codes to have an understanding of what to expect (codes may be hard to interpret)
